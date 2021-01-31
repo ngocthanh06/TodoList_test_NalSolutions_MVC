@@ -19,7 +19,3 @@ Todolist according to mvc model
 <h4>Update & Delete</h4>
 <img width="1438" alt="Screen Shot 2021-01-31 at 11 20 55 AM" src="https://user-images.githubusercontent.com/33601978/106374492-73077b80-63b6-11eb-8982-03d46acf45e5.png">
 
-- 📫 How to reach me: ...
-- Facebook: [@Ngoc Thanh](https://www.facebook.com/profile.php?id=100009989016153) 😏
-- Website: [ngocthanh06](http://ngocthanh06.herokuapp.com/) 😏🔗
-- Blog: [ngocthanh06](http://ngocthanh06.wordpress.com/)⚡💻
