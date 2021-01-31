@@ -65,7 +65,7 @@ class TodoLists extends Controller
     {
         $data = $this->todoModel->showTodo();
         
-        $this->view('todoLists/index', $data);
+        $this->view('todoLists/index', json_encode($data));
     }
 
     public function update($id)

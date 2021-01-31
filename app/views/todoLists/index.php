@@ -57,7 +57,7 @@
 
 <script type="text/javascript">
   $(function () {
-	let data = <?php echo json_encode($data); ?>;
+	let data = <?php echo $data; ?>;
 	let events = [];
 	let colorStatus = '#28a745';
 	
