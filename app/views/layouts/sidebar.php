@@ -15,7 +15,7 @@
                 <img src="<?php echo URLROOT ?>/public/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
-                <a href="<?php printf('aaa') ?>" class="d-block">Đào Ngọc Thạnh</a>
+                <a href="<?php printf('aaa') ?>" class="d-block">Dao Ngoc Thanh</a>
             </div>
         </div>
 
@@ -27,7 +27,7 @@
                     <a href="index.php" class="nav-link active">
                         <i class="nav-icon fas fa-tachometer-alt"></i>
                         <p>
-                            Trang chủ
+                            Home page
                         </p>
                     </a>
                 </li>
@@ -44,13 +44,13 @@
                         <li class="nav-item">
                             <a href="<?php echo URLROOT . '/todoLists/create' ?>" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Thêm</p>
+                                <p>Add Todo</p>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a href="<?php echo URLROOT . '/todoLists/lists' ?>" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Danh sách</p>
+                                <p>List Todo</p>
                             </a>
                         </li>
                     </ul>
