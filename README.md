@@ -11,6 +11,11 @@ Todolist according to mvc model
 <p>4. To use GIT and GIT Flow to manage your code</p>
 <p>5. Please do your best, no need to complete all contents if you cannot</p>
 
+<h2>Url</h2>
+```
+http://localhost/name_folder/todoLists/lists
+```
+
 <h1>Some pictures of the test</h1>
 <h4>List Todo</h4>
 <img width="1437" alt="Screen Shot 2021-01-31 at 11 19 50 AM" src="https://user-images.githubusercontent.com/33601978/106374467-4ce1db80-63b6-11eb-852e-bf9df5d9797f.png">
